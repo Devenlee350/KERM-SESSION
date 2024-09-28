@@ -58,18 +58,18 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃KERM_MD-V2 SESSION IS 
+┃𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈 𝚃𝙴𝙲𝙷 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 KG TECH 𖥘
+❶ || Creator = 𖥘 𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhatsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
+❷ || WhatsApp Channel = https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-➌ ||  WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
+➌ ||  WhatsApp Group = https://chat.whatsapp.com/BsM8ZJcqPaIH2gK4OJbJBN
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 KG TECH*
+©*2024-2099 𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈 𝚃𝙴𝙲𝙷 𝚆𝙾𝚁𝙻𝙳*
 
 *_Don't Forget To Give Star ⭐️ To My Repo_*`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
