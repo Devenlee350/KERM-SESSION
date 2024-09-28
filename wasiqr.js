@@ -60,22 +60,22 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃KERM_MD-V2 SESSION IS 
+┃ 𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 KG TECH 𖥘
+❶ || Creator = 𖥘 𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhatsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
+❷ || WhatsApp Channel = https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-➌ || WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
+➌ || WhatsApp Group = https://chat.whatsapp.com/BsM8ZJcqPaIH2gK4OJbJBN
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 KG_TECH*
+©*2024-2099 𝚂𝚃𝚁𝙸𝙺𝙴𝚁𝙱𝙾𝚈 𝚃𝙴𝙲𝙷 𝚆𝙾𝚁𝙻𝙳*
 _____________________________________
 	
 *_Don't Forget To Give Star ⭐️ To My Repo_*`
-	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Kg_Tech.user.id,{text:KERM_MD_TEXT},{quoted:session})
+	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Kg_Tech.user.id,{text:STRIKERBOY_TECH_TEXT},{quoted:session})
 
 
 
